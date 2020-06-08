@@ -1,0 +1,23 @@
+2020-06-04 15:13:40,939 INFO  [log] Customer Id = 2220
+2020-06-04 15:13:40,949 INFO  [log] Address Id = 1713
+2020-06-04 15:13:53,034 INFO  [log] Customer Id = 2221
+2020-06-04 15:13:53,075 INFO  [log] Address Id = 1714
+2020-06-04 15:13:57,194 INFO  [log] SKUV00101
+2020-06-04 15:13:57,267 INFO  [log]  row size is 4
+2020-06-04 15:13:57,277 INFO  [log]  column size is 1
+2020-06-04 15:13:57,282 INFO  [log]  Current SKU NO is  SKUV00101
+2020-06-04 15:14:02,591 INFO  [log] Status:  FINISHED, time taken for testCase is: 5066 ms
+2020-06-04 15:14:02,594 INFO  [log] number of test steps executed are: 5
+2020-06-04 15:14:02,615 INFO  [log]  Current SKU NO is  SKUV00102
+2020-06-04 15:14:06,951 INFO  [log] Status:  FINISHED, time taken for testCase is: 4092 ms
+2020-06-04 15:14:06,953 INFO  [log] number of test steps executed are: 5
+2020-06-04 15:14:06,954 INFO  [log]  Current SKU NO is  SKUV00103
+2020-06-04 15:14:11,239 INFO  [log] Status:  FINISHED, time taken for testCase is: 3996 ms
+2020-06-04 15:14:11,239 INFO  [log] number of test steps executed are: 5
+2020-06-04 15:14:11,240 INFO  [log]  Current SKU NO is  SKUV00104
+2020-06-04 15:14:15,263 INFO  [log] Status:  FINISHED, time taken for testCase is: 3897 ms
+2020-06-04 15:14:15,264 INFO  [log] number of test steps executed are: 5
+2020-06-04 15:14:19,671 INFO  [log] Result status is FINISHED
+2020-06-04 15:14:19,671 INFO  [log] 4
+2020-06-04 15:14:46,414 INFO  [log] Customer Id = 2222
+2020-06-04 15:14:46,451 INFO  [log] Address Id = 1715
